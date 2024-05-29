@@ -1,5 +1,5 @@
 <?php
-
+$url = "https://matkuz98.github.io/Administracija-Teretane.php/";
 
 require_once 'config.php';
 
